@@ -14,7 +14,7 @@ using Esri.ArcGISRuntime.Symbology;
 using Esri.ArcGISRuntime.Tasks;
 using Esri.ArcGISRuntime.UI;
 
-namespace iOSArcGISApp
+namespace ArcGISApp.Shared
 {
     /// <summary>
     /// Provides map data to an application
